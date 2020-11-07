@@ -8,7 +8,8 @@ public class test {
     public static void main(String[] args) {
         System.out.println("hello git");
     }
-    public void test(){
-        System.out.println(1+1);
+ // 这是我的测试方法
+    public void test() {
+        System.out.println(1 + 1);
     }
 }
